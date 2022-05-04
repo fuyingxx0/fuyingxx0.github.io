@@ -20,7 +20,7 @@ body{
 }
 
 a:link{
-    color: #009266;
+    color: #0aad07;
     font-weight: bold;
     text-decoration: dotted;
 }
@@ -30,14 +30,22 @@ a:hover{
     text-decoration: none;
 }
 
+#whole {
+    width: 100%;
+}
+
 #txt{
     width: 60%;
     float: left;
-    left: 5px;
+    left: 10px;
 }
 
 #pic{
     width: 50%;
     float: right;
-    right: 5 px;
+    right: 10 px;
+}
+
+#time{
+    text-align: center;
 }
