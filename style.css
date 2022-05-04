@@ -39,6 +39,7 @@ a:hover{
 #txt{
     width: 60%;
     float: left;
+    left: 30 px;
 }
 
 #pic{
