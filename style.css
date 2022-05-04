@@ -31,19 +31,19 @@ a:hover{
 }
 
 #whole {
-    width: 100%;
+    width: 90%;
+    left: 20 px;
+    right: 20 px;
 }
 
 #txt{
     width: 60%;
     float: left;
-    left: 10px;
 }
 
 #pic{
-    width: 50%;
+    width: 30%;
     float: right;
-    right: 10 px;
 }
 
 #time{
