@@ -15,6 +15,11 @@ body{
     font-family: Trebuchet MS;
     text-align: left;
     color: #526d65;
+    background-color: #d5f3f0;
+}
+
+a:hover{
+    color:#891717;
 }
 
 #txt{
