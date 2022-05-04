@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    color:#323c3e;
+}
+
+h2{
+    text-align: center;
+    color:#323c3e
+}
+
+body{
+    position: relative;
+    width: 100%;
+    margin: 0;
+    font-family: Trebuchet MS;
+    text-align: left;
+    color: #526d65;
+}
+
+#txt{
+    width: 80%;
+    float: left;
+}
+
+#pic{
+    width: 50%;
+    float: right;
+}
