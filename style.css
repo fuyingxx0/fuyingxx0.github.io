@@ -32,14 +32,13 @@ a:hover{
 
 #whole {
     width: 90%;
-    left: 50 px;
-    right: 50 px;
+    margin-left: 30 px;
+    margin-right: 30 px;
 }
 
 #txt{
     width: 60%;
     float: left;
-    left: 30 px;
 }
 
 #pic{
